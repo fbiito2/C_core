@@ -1,0 +1,65 @@
+﻿Installing assembly 'C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog
+   assemblypath = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe
+Installing service WatchHDService...
+Service WatchHDService has been successfully installed.
+Creating EventLog source WatchHDService in log Application...
+Committing assembly 'C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog
+   assemblypath = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe
+Uninstalling assembly 'C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog
+   assemblypath = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe
+Removing EventLog source WatchHDService.
+Service WatchHDService is being removed from the system...
+Service WatchHDService was successfully removed from the system.
+Attempt to stop service WatchHDService.
+Installing assembly 'C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog
+   assemblypath = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe
+Installing service WatchHDService...
+Service WatchHDService has been successfully installed.
+Creating EventLog source WatchHDService in log Application...
+Committing assembly 'C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog
+   assemblypath = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe
+Uninstalling assembly 'C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog
+   assemblypath = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe
+Removing EventLog source WatchHDService.
+Service WatchHDService is being removed from the system...
+Service WatchHDService was successfully removed from the system.
+正在安裝組件 'D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.exe'。
+受影響的參數為:
+   logtoconsole = 
+   logfile = D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.InstallLog
+   assemblypath = D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.exe
+正在安裝服務 WatchHDService...
+已經成功安裝服務 WatchHDService。
+正在記錄檔 Application 中建立 EventLog 來源 WatchHDService...
+正在認可組件 'D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.exe'。
+受影響的參數為:
+   logtoconsole = 
+   logfile = D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.InstallLog
+   assemblypath = D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.exe
+正在解除安裝組件 'D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.exe'。
+受影響的參數為:
+   logtoconsole = 
+   logfile = D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.InstallLog
+   assemblypath = D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.exe
+正在移除 EventLog 來源 WatchHDService。
+已從系統中移除服務 WatchHDService...
+已經成功從系統移除服務 WatchHDService。
+嘗試停止服務 WatchHDService。

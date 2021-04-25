@@ -1,0 +1,23 @@
+  private void Watcher_Renamed(object sender, RenamedEventArgs e)
+        {
+            string s = String.Format("{0}: {1}-{2}",
+                e.ChangeType, e.OldFullPath, e.FullPath);
+
+            this.Dispatcher.Invoke(() => { listBox1.Items.Add(s); });
+
+        }
+
+        private void Watcher_Changed(object sender, FileSystemEventArgs e)
+        {
+            string s = String.Format("{0}:{1}", e.ChangeType, e.FullPath);
+
+            this.Dispatcher.Invoke(() => { listBox1.Items.Add(s); });
+
+        }
+
+
+
+        //void UpdateUI(string s)
+        //{
+        //    listBox1.Items.Add(s);
+        //}

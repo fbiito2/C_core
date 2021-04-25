@@ -1,0 +1,27 @@
+﻿<Window x:Class="Mod05_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Mod05_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btnOK" Content="確認" HorizontalAlignment="Left" Margin="54,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75" Click="btnOK_Click"/>
+        <Label Content="請輸入你的姓名" HorizontalAlignment="Left" Margin="40,35,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="23" Margin="40,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="選擇你喜好的顏色" HorizontalAlignment="Left" Margin="40,115,0,0" VerticalAlignment="Top"/>
+        <StackPanel
+     RadioButton.Click="preferColorPanel_Click"
+      x:Name="preferColorPanel" HorizontalAlignment="Left" Height="100" Margin="46,149,0,0" VerticalAlignment="Top" Width="421" Orientation="Horizontal">
+            <RadioButton Content="紅"/>
+            <RadioButton Content="黃"/>
+            <RadioButton Content="白"/>
+        </StackPanel>
+    </Grid>
+
+</Window>

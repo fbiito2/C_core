@@ -1,0 +1,12 @@
+C:\Practices\Mod04_1\Starter\WcfService1\bin\WcfService1.dll.config
+C:\Practices\Mod04_1\Starter\WcfService1\bin\WcfService1.dll
+C:\Practices\Mod04_1\Starter\WcfService1\bin\WcfService1.pdb
+C:\Practices\Mod04_1\Starter\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Practices\Mod04_1\Starter\WcfService1\obj\Debug\WcfService1.dll
+C:\Practices\Mod04_1\Starter\WcfService1\obj\Debug\WcfService1.pdb
+C:\Practices\Mod04_1\Solution\WcfService1\bin\WcfService1.dll.config
+C:\Practices\Mod04_1\Solution\WcfService1\bin\WcfService1.dll
+C:\Practices\Mod04_1\Solution\WcfService1\bin\WcfService1.pdb
+C:\Practices\Mod04_1\Solution\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Practices\Mod04_1\Solution\WcfService1\obj\Debug\WcfService1.dll
+C:\Practices\Mod04_1\Solution\WcfService1\obj\Debug\WcfService1.pdb

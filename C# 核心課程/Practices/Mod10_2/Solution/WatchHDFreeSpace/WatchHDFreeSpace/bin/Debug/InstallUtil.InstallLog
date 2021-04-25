@@ -1,0 +1,63 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe assembly's progress.
+The file is located at C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe assembly's progress.
+The file is located at C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe assembly's progress.
+The file is located at C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe assembly's progress.
+The file is located at C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe assembly's progress.
+The file is located at C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe assembly's progress.
+The file is located at C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog.
+
+The uninstall has completed.
+
+正在執行交易性的安裝。
+
+正在開始安裝程式的安裝階段。
+請參閱 D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.exe 組件進度的記錄檔內容。
+檔案是位於 D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.InstallLog。
+
+安裝階段已經成功完成，正在開始認可階段。
+請參閱 D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.exe 組件進度的記錄檔內容。
+檔案是位於 D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.InstallLog。
+
+已經成功完成認可階段。
+
+已經完成交易性的安裝。
+
+
+正開始解除安裝。
+請參閱 D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.exe 組件進度的記錄檔內容。
+檔案是位於 D:\U2242\Practices_old\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\watchhdfreespace.InstallLog。
+
+已經完成解除安裝。

@@ -1,0 +1,22 @@
+﻿Installing assembly 'C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog
+   assemblypath = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe
+Installing service WatchHDService...
+Service WatchHDService has been successfully installed.
+Creating EventLog source WatchHDService in log Application...
+Committing assembly 'C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog
+   assemblypath = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe
+Uninstalling assembly 'C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.InstallLog
+   assemblypath = C:\Practices\Mod10_2\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe
+Removing EventLog source WatchHDService.
+Service WatchHDService is being removed from the system...
+Service WatchHDService was successfully removed from the system.
+Attempt to stop service WatchHDService.

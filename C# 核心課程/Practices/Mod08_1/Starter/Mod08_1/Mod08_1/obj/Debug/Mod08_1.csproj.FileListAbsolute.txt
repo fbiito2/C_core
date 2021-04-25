@@ -1,0 +1,14 @@
+C:\Practices\Mod08_1\Starter\Mod08_1\Mod08_1\bin\Debug\Mod08_1.exe.config
+C:\Practices\Mod08_1\Starter\Mod08_1\Mod08_1\obj\Debug\Mod08_1.csprojResolveAssemblyReference.cache
+C:\Practices\Mod08_1\Starter\Mod08_1\Mod08_1\obj\Debug\MainWindow.g.cs
+C:\Practices\Mod08_1\Starter\Mod08_1\Mod08_1\obj\Debug\App.g.cs
+C:\Practices\Mod08_1\Starter\Mod08_1\Mod08_1\obj\Debug\Mod08_1_MarkupCompile.cache
+C:\Practices\Mod08_1\Starter\Mod08_1\Mod08_1\obj\Debug\Mod08_1_MarkupCompile.lref
+C:\Practices\Mod08_1\Starter\Mod08_1\Mod08_1\bin\Debug\Mod08_1.exe
+C:\Practices\Mod08_1\Starter\Mod08_1\Mod08_1\bin\Debug\Mod08_1.pdb
+C:\Practices\Mod08_1\Starter\Mod08_1\Mod08_1\obj\Debug\MainWindow.baml
+C:\Practices\Mod08_1\Starter\Mod08_1\Mod08_1\obj\Debug\Mod08_1.g.resources
+C:\Practices\Mod08_1\Starter\Mod08_1\Mod08_1\obj\Debug\Mod08_1.Properties.Resources.resources
+C:\Practices\Mod08_1\Starter\Mod08_1\Mod08_1\obj\Debug\Mod08_1.csproj.GenerateResource.Cache
+C:\Practices\Mod08_1\Starter\Mod08_1\Mod08_1\obj\Debug\Mod08_1.exe
+C:\Practices\Mod08_1\Starter\Mod08_1\Mod08_1\obj\Debug\Mod08_1.pdb

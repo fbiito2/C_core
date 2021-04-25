@@ -1,0 +1,54 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfDataBinding"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="WpfDataBinding.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="395.974" Width="525" Loaded="Window_Loaded">
+  <Window.Resources>
+    <System:String x:Key="AppName" >參賽者清單</System:String>
+    <CollectionViewSource x:Key="playersViewSource" d:DesignSource="{d:DesignInstance {x:Type local:Players}}"/>
+    <DataTemplate x:Key="DataTemplate1">
+      <Grid d:DesignWidth="196.483" d:DesignHeight="88.22" Background="{Binding PreferColor}" Width="171">
+        <Grid.RowDefinitions>
+          <RowDefinition Height="43*"/>
+          <RowDefinition Height="45*"/>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="{Binding ID}" VerticalAlignment="Top" Width="151"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="1" TextWrapping="Wrap" Text="{Binding Name}" VerticalAlignment="Top" Width="151"/>
+      </Grid>
+    </DataTemplate>
+    <Style x:Key="HeaderText" TargetType="{x:Type TextBlock}">
+      <Setter Property="Background">
+        <Setter.Value>
+          <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF0035FF" Offset="0"/>
+            <GradientStop Color="#FF6D7EE3" Offset="1"/>
+          </LinearGradientBrush>
+        </Setter.Value>
+      </Setter>
+      <Setter Property="FontSize" Value="48"/>
+      <Setter Property="TextAlignment" Value="Center"/>
+    </Style>
+  </Window.Resources>
+  <Grid x:Name="LayoutRoot" DataContext="{StaticResource playersViewSource}" Background="{Binding SelectedItem, ElementName=lstPreferColor}">
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="245*"/>
+      <ColumnDefinition Width="272*"/>
+    </Grid.ColumnDefinitions>
+    <TextBox x:Name="txtID" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="95,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="{Binding ID}"/>
+    <Label Content="Name" Grid.Column="1" HorizontalAlignment="Left" Height="34" Margin="10,150,0,0" VerticalAlignment="Top" Width="45"/>
+    <TextBox x:Name="txtName" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="95,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="{Binding Name}"/>
+    <Label Content="Prefer Color" Grid.Column="1" HorizontalAlignment="Left" Height="25" Margin="10,193,0,0" VerticalAlignment="Top" Width="75"/>
+    <ListBox x:Name="lstPreferColor" Grid.Column="1" HorizontalAlignment="Left" Height="107" Margin="95,195,0,0" VerticalAlignment="Top" Width="120" SelectedItem="{Binding PreferColor}">
+      <System:String>Red</System:String>
+      <System:String>Yellow</System:String>
+      <System:String>White</System:String>
+    </ListBox>
+    <ListBox x:Name="playersListBox" ItemsSource="{Binding}" Margin="38,99,43,19" SelectedValuePath="ID" ItemTemplate="{DynamicResource DataTemplate1}"/>
+    <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="38,10,0,0" TextWrapping="Wrap" Text="{DynamicResource AppName}" VerticalAlignment="Top" Width="422" Grid.ColumnSpan="2" Height="65" Style="{DynamicResource HeaderText}"/>
+
+  </Grid>
+</Window>

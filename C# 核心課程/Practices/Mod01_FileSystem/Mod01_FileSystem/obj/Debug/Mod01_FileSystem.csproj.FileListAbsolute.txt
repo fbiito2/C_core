@@ -1,0 +1,10 @@
+C:\temp\Mod01_FileSystem\Mod01_FileSystem\bin\Debug\Mod01_FileSystem.exe.config
+C:\temp\Mod01_FileSystem\Mod01_FileSystem\bin\Debug\Mod01_FileSystem.exe
+C:\temp\Mod01_FileSystem\Mod01_FileSystem\bin\Debug\Mod01_FileSystem.pdb
+C:\temp\Mod01_FileSystem\Mod01_FileSystem\obj\Debug\Mod01_FileSystem.csprojAssemblyReference.cache
+C:\temp\Mod01_FileSystem\Mod01_FileSystem\obj\Debug\Mod01_FileSystem.Form1.resources
+C:\temp\Mod01_FileSystem\Mod01_FileSystem\obj\Debug\Mod01_FileSystem.Properties.Resources.resources
+C:\temp\Mod01_FileSystem\Mod01_FileSystem\obj\Debug\Mod01_FileSystem.csproj.GenerateResource.cache
+C:\temp\Mod01_FileSystem\Mod01_FileSystem\obj\Debug\Mod01_FileSystem.csproj.CoreCompileInputs.cache
+C:\temp\Mod01_FileSystem\Mod01_FileSystem\obj\Debug\Mod01_FileSystem.exe
+C:\temp\Mod01_FileSystem\Mod01_FileSystem\obj\Debug\Mod01_FileSystem.pdb

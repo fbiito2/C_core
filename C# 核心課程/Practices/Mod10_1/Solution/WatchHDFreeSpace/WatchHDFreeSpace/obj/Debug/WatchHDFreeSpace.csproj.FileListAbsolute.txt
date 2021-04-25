@@ -1,0 +1,12 @@
+C:\Practices\Mod10_1\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe.config
+C:\Practices\Mod10_1\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe
+C:\Practices\Mod10_1\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.pdb
+C:\Practices\Mod10_1\Solution\WatchHDFreeSpace\WatchHDFreeSpace\obj\Debug\WatchHDFreeSpace.csprojResolveAssemblyReference.cache
+C:\Practices\Mod10_1\Solution\WatchHDFreeSpace\WatchHDFreeSpace\obj\Debug\WatchHDFreeSpace.exe
+C:\Practices\Mod10_1\Solution\WatchHDFreeSpace\WatchHDFreeSpace\obj\Debug\WatchHDFreeSpace.pdb
+D:\U2142a\Practices\Mod10_1\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe.config
+D:\U2142a\Practices\Mod10_1\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.exe
+D:\U2142a\Practices\Mod10_1\Solution\WatchHDFreeSpace\WatchHDFreeSpace\bin\Debug\WatchHDFreeSpace.pdb
+D:\U2142a\Practices\Mod10_1\Solution\WatchHDFreeSpace\WatchHDFreeSpace\obj\Debug\WatchHDFreeSpace.csprojResolveAssemblyReference.cache
+D:\U2142a\Practices\Mod10_1\Solution\WatchHDFreeSpace\WatchHDFreeSpace\obj\Debug\WatchHDFreeSpace.exe
+D:\U2142a\Practices\Mod10_1\Solution\WatchHDFreeSpace\WatchHDFreeSpace\obj\Debug\WatchHDFreeSpace.pdb

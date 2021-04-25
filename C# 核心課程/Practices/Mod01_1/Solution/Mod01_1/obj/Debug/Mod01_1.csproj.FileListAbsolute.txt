@@ -1,0 +1,26 @@
+D:\U2142a\Practices\Mod01_1\Mod01_1\bin\Debug\Mod01_1.exe.config
+D:\U2142a\Practices\Mod01_1\Mod01_1\bin\Debug\Mod01_1.exe
+D:\U2142a\Practices\Mod01_1\Mod01_1\bin\Debug\Mod01_1.pdb
+D:\U2142a\Practices\Mod01_1\Mod01_1\obj\Debug\Mod01_1.csprojResolveAssemblyReference.cache
+D:\U2142a\Practices\Mod01_1\Mod01_1\obj\Debug\Mod01_1.exe
+D:\U2142a\Practices\Mod01_1\Mod01_1\obj\Debug\Mod01_1.pdb
+D:\U2242\Practices_old\Mod01_1\Solution\Mod01_1\bin\Debug\Mod01_1.exe.config
+D:\U2242\Practices_old\Mod01_1\Solution\Mod01_1\bin\Debug\Mod01_1.exe
+D:\U2242\Practices_old\Mod01_1\Solution\Mod01_1\bin\Debug\Mod01_1.pdb
+D:\U2242\Practices_old\Mod01_1\Solution\Mod01_1\obj\Debug\Mod01_1.csprojAssemblyReference.cache
+D:\U2242\Practices_old\Mod01_1\Solution\Mod01_1\obj\Debug\Mod01_1.exe
+D:\U2242\Practices_old\Mod01_1\Solution\Mod01_1\obj\Debug\Mod01_1.pdb
+C:\U2242\Practices\Mod01_1\Solution\Mod01_1\bin\Debug\Mod01_1.exe.config
+C:\U2242\Practices\Mod01_1\Solution\Mod01_1\bin\Debug\Mod01_1.exe
+C:\U2242\Practices\Mod01_1\Solution\Mod01_1\bin\Debug\Mod01_1.pdb
+C:\U2242\Practices\Mod01_1\Solution\Mod01_1\obj\Debug\Mod01_1.csprojAssemblyReference.cache
+C:\U2242\Practices\Mod01_1\Solution\Mod01_1\obj\Debug\Mod01_1.csproj.CoreCompileInputs.cache
+C:\U2242\Practices\Mod01_1\Solution\Mod01_1\obj\Debug\Mod01_1.exe
+C:\U2242\Practices\Mod01_1\Solution\Mod01_1\obj\Debug\Mod01_1.pdb
+C:\Users\Admin\Desktop\C# 核心課程\Practices\Mod01_1\Solution\Mod01_1\bin\Debug\Mod01_1.exe.config
+C:\Users\Admin\Desktop\C# 核心課程\Practices\Mod01_1\Solution\Mod01_1\bin\Debug\Mod01_1.exe
+C:\Users\Admin\Desktop\C# 核心課程\Practices\Mod01_1\Solution\Mod01_1\bin\Debug\Mod01_1.pdb
+C:\Users\Admin\Desktop\C# 核心課程\Practices\Mod01_1\Solution\Mod01_1\obj\Debug\Mod01_1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C# 核心課程\Practices\Mod01_1\Solution\Mod01_1\obj\Debug\Mod01_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# 核心課程\Practices\Mod01_1\Solution\Mod01_1\obj\Debug\Mod01_1.exe
+C:\Users\Admin\Desktop\C# 核心課程\Practices\Mod01_1\Solution\Mod01_1\obj\Debug\Mod01_1.pdb

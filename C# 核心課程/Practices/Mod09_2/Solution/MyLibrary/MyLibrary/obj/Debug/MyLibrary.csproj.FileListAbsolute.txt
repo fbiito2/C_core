@@ -1,0 +1,15 @@
+C:\Practices\Mod09_1\Solution\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Practices\Mod09_1\Solution\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Practices\Mod09_1\Solution\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Practices\Mod09_1\Solution\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Practices\Mod09_1\Solution\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Practices\Mod09_2\Solution\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Practices\Mod09_2\Solution\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Practices\Mod09_2\Solution\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Practices\Mod09_2\Solution\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Practices\Mod09_2\Solution\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+D:\U2242\Practices_old\Mod09_2\Solution\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+D:\U2242\Practices_old\Mod09_2\Solution\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\U2242\Practices_old\Mod09_2\Solution\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+D:\U2242\Practices_old\Mod09_2\Solution\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+D:\U2242\Practices_old\Mod09_2\Solution\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
