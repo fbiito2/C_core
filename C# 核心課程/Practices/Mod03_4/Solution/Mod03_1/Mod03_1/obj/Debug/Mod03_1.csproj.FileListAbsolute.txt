@@ -101,3 +101,26 @@ D:\U2242\Practices_old\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1.csproj
 D:\U2242\Practices_old\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1.csproj.CopyComplete
 D:\U2242\Practices_old\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1.exe
 D:\U2242\Practices_old\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1.pdb
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\bin\Debug\Mod03_1.exe.config
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\bin\Debug\Mod03_1.exe
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\bin\Debug\Mod03_1.pdb
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\bin\Debug\EntityFramework.dll
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\bin\Debug\EntityFramework.xml
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1.csprojAssemblyReference.cache
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\MainWindow.g.cs
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Window1.g.cs
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\App.g.cs
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1_Content.g.cs
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1_MarkupCompile.cache
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1_MarkupCompile.lref
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\MainWindow.baml
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Window1.baml
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1.g.resources
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1.Properties.Resources.resources
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1.csproj.GenerateResource.cache
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1.csproj.CoreCompileInputs.cache
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1.csproj.CopyComplete
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1.exe
+C:\C# 核心課程\Practices\Mod03_4\Solution\Mod03_1\Mod03_1\obj\Debug\Mod03_1.pdb

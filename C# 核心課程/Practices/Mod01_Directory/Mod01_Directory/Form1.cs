@@ -20,7 +20,9 @@ namespace Mod01_Directory
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //Directory.Delete(textBox1.Text);
+            //Directory.Delete(textBox1.Text);  //刪除檔案directory.Delete(完整路徑名)，這個不會問也不會放到回收桶直接消失!!!!!!
+            
+            //VB提供可操作深層元件(win32API)的方法，功能比較多microsoft.VisualBasic.FileIO.Filesystem.DeleteDirectory(完整路徑名,出現對話方塊,放到回收桶)
             Microsoft.VisualBasic.FileIO.FileSystem.DeleteDirectory(
                 textBox1.Text,
                 Microsoft.VisualBasic.FileIO.UIOption.AllDialogs,

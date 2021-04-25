@@ -20,6 +20,7 @@ namespace Mod01_BinaryReaderWriter
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //物件陣列
             Student[] students = new Student[]
                 {new Student{ ID = 1, Name = "Lisa", AvgScore = 88 },
                 new Student { ID = 2, Name = "Mickey", AvgScore = 90 }};
@@ -27,7 +28,7 @@ namespace Mod01_BinaryReaderWriter
 
             using (FileStream fs = File.Create(@"c:\test\students.bin"))
             {
-                BinaryWriter writer = new BinaryWriter(fs);
+                BinaryWriter writer = new BinaryWriter(fs);  //二進位
 
                 foreach (Student st in students)
                 {

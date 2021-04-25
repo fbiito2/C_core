@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity.Core.EntityClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,5 +22,27 @@ namespace Mod03_1 {
     public MainWindow( ) {
       InitializeComponent();
     }
-  }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var cn = new EntityConnection();
+            cn.ConnectionString = "Name=pubsEntities";
+            var cmd = cn.CreateCommand();
+            cmd.CommandText = "select value s from pubsEntities.stores as s";
+            cn.Open();
+            var dr = cmd.ExecuteReader(System.Data.CommandBehavior.SequentialAccess);
+
+            while (dr.Read())
+            {
+                test.Items.Add(dr[0]);
+            }
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            var ctx = new pubsEntities();
+            //var q=(from s in ctx.store
+            //       select nes{ })
+        }
+    }
 }

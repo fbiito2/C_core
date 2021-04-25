@@ -34,24 +34,15 @@ namespace WebApplication1
                         str.Read(fileData, 0, len);
                         str.Close();
 
-                        using (SqlConnection cn = new SqlConnection(@"Data Source=.\sqlexpress;Initial Catalog=PhotoDB;Integrated Security=True;"))
-                        {
-                            using (SqlCommand cmd = new SqlCommand("INSERT INTO PhotTable (photo) VALUES (@photo)", cn))
-                            {
-                                cn.Open();
-                                SqlParameter param1 = new SqlParameter("@photo", fileData);
-
-                                cmd.Parameters.Add(param1);
-                                cmd.ExecuteNonQuery();
-                                Response.Redirect("default.aspx");
-                                //cn.Close();
-                            }
-
-                        }
-
-
-                        //SqlParameter param1 = new SqlParameter("@photo", SqlDbType.Image);
-                        //param1.Value = fileData;
+                        SqlConnection cn = new SqlConnection(@"Data Source=.\sqlexpress;Initial Catalog=PhotoDB;Integrated Security=True;");
+                        SqlCommand cmd = new SqlCommand("INSERT INTO PhotoTable (photo) VALUES (@photo)", cn);
+                        SqlParameter param1 = new SqlParameter("@photo", SqlDbType.Image);
+                        param1.Value = fileData;
+                        cmd.Parameters.Add(param1);
+                        cn.Open();
+                        cmd.ExecuteNonQuery();
+                        cn.Close();
+                        Response.Redirect("default.aspx");
                     }
                     catch (Exception ex)
                     {

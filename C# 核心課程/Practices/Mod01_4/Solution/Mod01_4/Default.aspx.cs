@@ -12,33 +12,22 @@ namespace WebApplication1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            DataTable dt = new DataTable();
             if (!Page.IsPostBack)
             {
-                using (SqlConnection cn = new SqlConnection(@"Data Source=.\sqlexpress;Initial Catalog=PhotoDB;Integrated Security=True;"))
-                {
-                    using (SqlCommand cmd = new SqlCommand("select id from PhotTable", cn))
-                    {
-                        cn.Open();
-                        //SqlDataReader dr = cmd.ExecuteReader();
-                        //dt.Load(dr);
-                        using (SqlDataAdapter da = new SqlDataAdapter(cmd))
-                        {
-                            da.Fill(dt);
-                            //dr.Close();
-                            //cn.Close();
-                        }
+                SqlConnection cn = new SqlConnection(@"Data Source=.\sqlexpress;Initial Catalog=PhotoDB;Integrated Security=True;");
+                SqlCommand cmd = new SqlCommand("select id from PhotoTable", cn);
 
-                    }
-                }
-
-
-
+                cn.Open();
+                SqlDataReader dr = cmd.ExecuteReader();
+                DataTable dt = new DataTable();
+                dt.Load(dr);
 
                 lst.DataSource = dt;
                 lst.DataTextField = "id";
                 lst.DataBind();
 
+                dr.Close();
+                cn.Close();
             }
 
         }

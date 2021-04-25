@@ -11,6 +11,6 @@
         <Button x:Name="btnDeserialize" Content="還原序列化" HorizontalAlignment="Left" Margin="197,25,0,0" VerticalAlignment="Top" Width="75" Click="btnDeserialize_Click"/>
         <Label x:Name="lblName" Content="" HorizontalAlignment="Left" Margin="86,79,0,0" VerticalAlignment="Top"/>
         <Label x:Name="lblLevel" Content="" HorizontalAlignment="Left" Margin="86,120,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="lblSalary" Content="" HorizontalAlignment="Left" Margin="86,177,0,0" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>

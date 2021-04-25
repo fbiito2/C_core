@@ -21,7 +21,6 @@ namespace Mod01_File
         private void button1_Click(object sender, EventArgs e)
         {
             string path = Application.StartupPath;
-
             foreach (string file in Directory.GetFiles(path))
             {
                listBox1.Items.Add(file);
@@ -55,13 +54,11 @@ namespace Mod01_File
 
         private void button5_Click(object sender, EventArgs e)
         {
-            FileInfo fi = new FileInfo(textBox1.Text);
-
-            MessageBox.Show(fi.FullName);
+            FileInfo fi = new FileInfo(textBox1.Text);  //先給完整路徑名
+            MessageBox.Show(fi.FullName);  
 
             MessageBox.Show(Path.GetExtension(fi.FullName));
-
-            MessageBox.Show(Path.ChangeExtension(fi.FullName, "jpg"));
+            MessageBox.Show(Path.ChangeExtension(fi.FullName, "jpg"));  //path是對字串做加工，如真的要異動要用再用File類別來生成真的檔案
         }
     }
 }

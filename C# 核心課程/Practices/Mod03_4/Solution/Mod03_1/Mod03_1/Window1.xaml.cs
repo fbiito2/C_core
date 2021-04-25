@@ -14,23 +14,27 @@ using System.Windows.Shapes;
 
 using System.Data.Entity;
 
-namespace Mod03_1 {
-  /// <summary>
-  /// Interaction logic for Window1.xaml
-  /// </summary>
-  public partial class Window1 : Window {
-    public Window1( ) {
-      InitializeComponent();
-    }
+namespace Mod03_1
+{
+    /// <summary>
+    /// Interaction logic for Window1.xaml
+    /// </summary>
+    public partial class Window1 : Window
+    {
+        public Window1()
+        {
+            InitializeComponent();
+        }
 
-    private void Window_Loaded( object sender, RoutedEventArgs e ) {
-
-      System.Windows.Data.CollectionViewSource storeViewSource = ( (System.Windows.Data.CollectionViewSource) ( this.FindResource("storeViewSource") ) );
-      // Load data by setting the CollectionViewSource.Source property:
-      // storeViewSource.Source = [generic data source]
-      var ctx = new pubsEntities();
-      DbSet<store> s = ctx.stores;
-      storeViewSource.Source = s.ToList();
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            //建立Grid時自動幫你建好
+            System.Windows.Data.CollectionViewSource storeViewSource = ((System.Windows.Data.CollectionViewSource)(this.FindResource("storeViewSource")));
+            // Load data by setting the CollectionViewSource.Source property:
+            // storeViewSource.Source = [generic data source]
+            var ctx = new pubsEntities();
+            //DbSet<store> s = ctx.stores;  
+            storeViewSource.Source = ctx.stores.ToList();
+        }
     }
-  }
 }
