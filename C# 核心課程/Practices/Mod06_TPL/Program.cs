@@ -12,9 +12,9 @@ namespace ConsoleApplication1
         {
             //TaskStart();
 
-            //TaskWait();
+            TaskWait();
 
-            TaskReturnValue();
+            //TaskReturnValue();
 
             //TaskLongRuning();
 

@@ -20,3 +20,10 @@ C:\U2242\Mod06_TPL\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
 C:\U2242\Mod06_TPL\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
 C:\U2242\Mod06_TPL\obj\Debug\ConsoleApplication1.exe
 C:\U2242\Mod06_TPL\obj\Debug\ConsoleApplication1.pdb
+C:\C_core\C# 核心課程\Practices\Mod06_TPL\bin\Debug\ConsoleApplication1.exe.config
+C:\C_core\C# 核心課程\Practices\Mod06_TPL\bin\Debug\ConsoleApplication1.exe
+C:\C_core\C# 核心課程\Practices\Mod06_TPL\bin\Debug\ConsoleApplication1.pdb
+C:\C_core\C# 核心課程\Practices\Mod06_TPL\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\C_core\C# 核心課程\Practices\Mod06_TPL\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\C_core\C# 核心課程\Practices\Mod06_TPL\obj\Debug\ConsoleApplication1.exe
+C:\C_core\C# 核心課程\Practices\Mod06_TPL\obj\Debug\ConsoleApplication1.pdb

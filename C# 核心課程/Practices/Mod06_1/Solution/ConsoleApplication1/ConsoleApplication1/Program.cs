@@ -10,7 +10,7 @@ namespace ConsoleApplication1 {
     static void Main( string[] args ) {
       Console.WriteLine("進入Long run work!");
       //LRWorkCanCancel();
-      TaskCanCancel();
+      TaskCanCancel();  //要改成有多執行續的方法
       Console.WriteLine("結束");
     }
 
