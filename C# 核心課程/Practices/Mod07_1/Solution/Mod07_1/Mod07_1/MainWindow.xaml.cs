@@ -29,16 +29,16 @@ namespace Mod07_1 {
       dynamic excelApp = Activator.CreateInstance(excelType);
       excelApp.Visible = true;
 
-      string xlsFile = @"c:\temp\mytext.xlsx";
+      string xlsFile = @"c:\temp\mytext.xlsx";  //自己準備
       string outPDF = @"c:\temp\mytext.pdf";
       // 使用動態物件的成員，Open 方法可以開啟Excel 的Workbook，並傳回Workbook 物件
       dynamic workbook = excelApp.Workbooks.Open(xlsFile);
       // 使用 workbook 物件的 ExportAsFixedFormat方法可以匯出PDF或XPS 文件
       // 參數1: 0 -> PDF, 1-> XPS
       // 參數2: 輸出的檔名，其他參數可以省略不傳
-      workbook.ExportAsFixedFormat(0, outPDF);
+      workbook.ExportAsFixedFormat(0, outPDF);  //匯出PDF，沒資料會掛掉
       // 顯示 Excel 應用程式
-      excelApp.Visible = true;
+      excelApp.Visible = true;  //false exect不會開
       // 開啟輸出的文件
       Process.Start(outPDF);
     }

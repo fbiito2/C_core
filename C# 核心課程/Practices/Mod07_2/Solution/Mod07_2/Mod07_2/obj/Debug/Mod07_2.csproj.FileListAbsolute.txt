@@ -54,3 +54,18 @@ D:\U2242\Practices_old\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\Mod07_2.Proper
 D:\U2242\Practices_old\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\Mod07_2.csproj.GenerateResource.cache
 D:\U2242\Practices_old\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\Mod07_2.exe
 D:\U2242\Practices_old\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\Mod07_2.pdb
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\bin\Debug\Mod07_2.exe.config
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\bin\Debug\Mod07_2.exe
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\bin\Debug\Mod07_2.pdb
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\Mod07_2.csprojAssemblyReference.cache
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\MainWindow.g.cs
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\App.g.cs
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\Mod07_2_MarkupCompile.cache
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\Mod07_2_MarkupCompile.lref
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\MainWindow.baml
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\Mod07_2.g.resources
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\Mod07_2.Properties.Resources.resources
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\Mod07_2.csproj.GenerateResource.cache
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\Mod07_2.csproj.CoreCompileInputs.cache
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\Mod07_2.exe
+C:\C_core\C# 核心課程\Practices\Mod07_2\Solution\Mod07_2\Mod07_2\obj\Debug\Mod07_2.pdb

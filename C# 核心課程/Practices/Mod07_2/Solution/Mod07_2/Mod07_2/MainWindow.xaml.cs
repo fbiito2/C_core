@@ -38,7 +38,7 @@ namespace Mod07_2 {
       using ( ManagedExcel excel = new ManagedExcel(xlsFile) ) {
         excel.ExportToPDF(outpdf);
       }
-      Process.Start(outpdf);
+      //Process.Start(outpdf);  //註解掉就不會開啟給你看
     }
   }
 }
