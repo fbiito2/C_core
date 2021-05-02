@@ -1,0 +1,21 @@
+Application 物件 (Excel)  API
+https://docs.microsoft.com/zh-tw/office/vba/api/excel.application(object)
+
+
+
+ProgID 索引鍵尋找位置
+HKEY _本機 _ 電腦 \ 軟體 \ 類別 \ { ProgID }
+https://docs.microsoft.com/zh-tw/windows/win32/com/-progid--key
+
+
+平台叫用 (P/Invoke)
+https://docs.microsoft.com/zh-tw/dotnet/standard/native-interop/pinvoke
+
+
+COM Interop
+https://docs.microsoft.com/zh-tw/dotnet/standard/native-interop/cominterop
+
+
+RCW
+https://docs.microsoft.com/zh-tw/dotnet/standard/native-interop/runtime-callable-wrapper
+https://docs.microsoft.com/zh-tw/dotnet/standard/native-interop/com-wrappers
