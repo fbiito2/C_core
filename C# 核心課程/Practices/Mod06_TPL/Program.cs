@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             //TaskStart();
 
-            TaskWait();
+            //TaskWait();
 
             //TaskReturnValue();
 
@@ -20,7 +20,7 @@ namespace ConsoleApplication1
 
             //TaskCancel();
 
-            //UseParallelInvoke();
+            UseParallelInvoke();
 
 
             //UseParallelFor();
@@ -35,6 +35,7 @@ namespace ConsoleApplication1
 
         private static void UseParallelForEach()
         {
+            //不能指定CPU
             var room = new[] {
                 new  { ID = 101, Name = "Room A" , Floor="12" }, 
                 new  { ID = 102, Name = "Room B"  , Floor="12"}, 
@@ -45,6 +46,7 @@ namespace ConsoleApplication1
             //{
             //    Console.WriteLine("{0} - {1} - {2}", item.ID, item.Name, item.Floor  );
             //}
+            //範例
             Random rnd = new Random();
             Parallel.ForEach(room, item =>
             {
@@ -60,6 +62,7 @@ namespace ConsoleApplication1
             //{
                 
             //}
+            //不用i++  自己會加
             Parallel.For(0, 60, idx =>
             {
                 Thread.Sleep(rnd.Next(1, 500));
@@ -69,6 +72,7 @@ namespace ConsoleApplication1
 
         private static void UseParallelInvoke()
         {
+            //cpu的id是不會看到2的，id=2給UI
             Random rnd = new Random();
             Parallel.Invoke(
                 () =>

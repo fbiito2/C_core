@@ -28,3 +28,10 @@ D:\U2242\Practices_old\Mod06_3\Solution\Mod06_3\WcfService1\bin\WcfService1.pdb
 D:\U2242\Practices_old\Mod06_3\Solution\Mod06_3\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
 D:\U2242\Practices_old\Mod06_3\Solution\Mod06_3\WcfService1\obj\Debug\WcfService1.dll
 D:\U2242\Practices_old\Mod06_3\Solution\Mod06_3\WcfService1\obj\Debug\WcfService1.pdb
+C:\C_core\C# 核心課程\Practices\Mod06_3\Solution\Mod06_3\WcfService1\bin\WcfService1.dll.config
+C:\C_core\C# 核心課程\Practices\Mod06_3\Solution\Mod06_3\WcfService1\bin\WcfService1.dll
+C:\C_core\C# 核心課程\Practices\Mod06_3\Solution\Mod06_3\WcfService1\bin\WcfService1.pdb
+C:\C_core\C# 核心課程\Practices\Mod06_3\Solution\Mod06_3\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\C_core\C# 核心課程\Practices\Mod06_3\Solution\Mod06_3\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\C_core\C# 核心課程\Practices\Mod06_3\Solution\Mod06_3\WcfService1\obj\Debug\WcfService1.dll
+C:\C_core\C# 核心課程\Practices\Mod06_3\Solution\Mod06_3\WcfService1\obj\Debug\WcfService1.pdb
