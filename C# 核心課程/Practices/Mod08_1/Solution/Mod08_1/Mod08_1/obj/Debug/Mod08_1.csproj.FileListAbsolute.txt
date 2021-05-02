@@ -54,3 +54,18 @@ D:\U2242\Practices_old\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\Mod08_1.Proper
 D:\U2242\Practices_old\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\Mod08_1.csproj.GenerateResource.cache
 D:\U2242\Practices_old\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\Mod08_1.exe
 D:\U2242\Practices_old\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\Mod08_1.pdb
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\bin\Debug\Mod08_1.exe.config
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\bin\Debug\Mod08_1.exe
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\bin\Debug\Mod08_1.pdb
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\Mod08_1.csprojAssemblyReference.cache
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\MainWindow.g.cs
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\App.g.cs
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\Mod08_1_MarkupCompile.cache
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\Mod08_1_MarkupCompile.lref
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\MainWindow.baml
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\Mod08_1.g.resources
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\Mod08_1.Properties.Resources.resources
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\Mod08_1.csproj.GenerateResource.cache
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\Mod08_1.csproj.CoreCompileInputs.cache
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\Mod08_1.exe
+C:\C_core\C# 核心課程\Practices\Mod08_1\Solution\Mod08_1\Mod08_1\obj\Debug\Mod08_1.pdb
