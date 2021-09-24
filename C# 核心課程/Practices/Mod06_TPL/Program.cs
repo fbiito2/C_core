@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //TaskStart();
+            TaskStart();
 
             //TaskWait();
 
@@ -20,7 +20,7 @@ namespace ConsoleApplication1
 
             //TaskCancel();
 
-            UseParallelInvoke();
+            //UseParallelInvoke();
 
 
             //UseParallelFor();
