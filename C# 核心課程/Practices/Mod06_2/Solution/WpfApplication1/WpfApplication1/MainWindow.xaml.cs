@@ -38,7 +38,7 @@ namespace WpfApplication1 {
       // ForEach 傳入 要被處理的集合物件及處理單一項目的程序使用Lambda
       Parallel.ForEach(room, item => {
         // 讓這個執行緒暫停半秒鐘以內< 500 毫秒
-        Thread.Sleep(rnd.Next(500));
+        Thread.Sleep(rnd.Next(1000));
         // 切換到 UI 的執行緒上
         this.Dispatcher.BeginInvoke(new Action(( ) => {
           // 顯示於畫面上

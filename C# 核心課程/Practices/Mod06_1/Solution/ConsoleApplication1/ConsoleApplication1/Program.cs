@@ -16,9 +16,9 @@ namespace ConsoleApplication1 {
 
     private static void LRWorkCanCancel( CancellationToken token ) {
       int i = 0;
-      while ( i < 30 ) {
+      while ( i < 300 ) {
         i++;
-        Thread.Sleep(100);
+        Thread.Sleep(1000);
         Console.Write(".");
         // 偵測取消信號
         if ( token.IsCancellationRequested ) {
